@@ -1,0 +1,1 @@
+EXEC sp_rename 'Properties.statuss', 'Status', 'COLUMN';
